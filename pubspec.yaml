@@ -1,11 +1,11 @@
 name: login_widget
 description: A Flutter package capable of streamlining the construction of login forms.
-version: 1.0.4
+version: 1.0.5
 repository: https://www.github.com/tytydraco/login_widget
 
 environment:
-  sdk: ">=2.17.3 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:
